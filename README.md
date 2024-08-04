@@ -1,4 +1,3 @@
-<img width="881" alt="openAI" src="https://github.com/user-attachments/assets/74eade1f-255b-47a6-b97f-b9de0324a2b0"># GenAI-SimpleChatBot-with-OpenAI-and-OLLAMA
 
 # Chat Application using LangChain with OpenAI & OLLAMA
 

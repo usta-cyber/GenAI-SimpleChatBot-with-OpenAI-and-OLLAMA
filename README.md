@@ -12,7 +12,8 @@ This repository contains a simple chat application that leverages LangChain to i
 
 ## Screenshots
 
-![Chat Application Screenshot](D:\GenAI Cource\mylabs\GenAI-SimpleChatBot-with-OpenAI-and-OLLAMA\ollama.png)
+
+![Chat Application Screenshot](<img width="925" alt="ollama" src="https://github.com/user-attachments/assets/59a948fb-7958-47fe-8101-e0de72e16222">)
 ![Chat Application Screenshot](D:\GenAI Cource\mylabs\GenAI-SimpleChatBot-with-OpenAI-and-OLLAMA\openAI.png)
 
 

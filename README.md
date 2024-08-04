@@ -11,9 +11,10 @@ This repository contains a simple chat application that leverages LangChain to i
 - **Seamless Switching:** Easily switch between the two models during conversation.
 
 ## Screenshots
-
+- OLLAMA
 <img width="925" alt="ollama" src="https://github.com/user-attachments/assets/59a948fb-7958-47fe-8101-e0de72e16222">
-
+- OPENAI
+<img width="881" alt="openAI" src="https://github.com/user-attachments/assets/6ec6451d-294d-4bae-b858-9f885ff444ee">
 
 
 ## Installation
